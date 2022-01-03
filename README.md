@@ -1,6 +1,8 @@
 # VGG16
 by pytorch, ImageNet
 
+![vggnet](https://user-images.githubusercontent.com/92920517/147895674-0191c250-9004-4398-8961-98a7fca5ba95.png)
+
     parser = argparse.ArgumentParser()
     parser.add_argument('-n', '--nodes', default=1,
                         type=int, metavar='N')
