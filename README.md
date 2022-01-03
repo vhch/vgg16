@@ -1,5 +1,5 @@
 # VGG16
-by pytorch
+by pytorch, ImageNet
 
     parser = argparse.ArgumentParser()
     parser.add_argument('-n', '--nodes', default=1,
